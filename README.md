@@ -7,6 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/jessicaSB903/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jessicaSB903/ticket-lifecycle)
 - <b>Microsoft Azure</b>
+  - [Azure Resource Groups: From Creation to Deployment](https://github.com/jessicaSB903/RG)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jessicaSB903/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jessicaSB903/azure-network-protocols)
 - <b>VPN</b>
